@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ###
 
-<p align="left">- Web Developer<br>- Mobile App<br>- Data</p>
+<p align="left">- Web Developer<br>- Data Analyst<br>- Data Scientist</p>
 
 ###
 
